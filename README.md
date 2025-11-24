@@ -27,9 +27,8 @@ Building projects that combine **AI models**, **data pipelines**, and **automati
 ---
 
 ### 📫 How to reach me
-- 📧 [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/adolf-felip-garcia-soares-62a1a9184/)  
-- 🌐 [https://tuusuario.github.io](https://bandipus.github.io)
+- 🌐 [https://bandipus.github.io](https://bandipus.github.io)
 
 ---
 
