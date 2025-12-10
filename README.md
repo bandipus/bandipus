@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Adolfo**, a developer passionate about **Automation**, **Artificial Intelligence**, and **Data Science**.  
+I'm **Adolfo**, a developer passionate about **Software Engineer**, **Artificial Intelligence**, and **Data Science**.  
 I love turning ideas into efficient systems and data into insights.
 
 ---
@@ -21,7 +21,7 @@ Building projects that combine **AI models**, **data pipelines**, and **automati
 ### 🧰 Languages and Tools
 - 🐍 **Python** — Data Science, AI, Automation  
 - ⚡ **JavaScript / Node.js / Tailwind CSS** — Web development & scripting  
-- 🧮 **SQL** — Structured data analysis  
+- 🧮 **SQL / NoSQL** — Structured data analysis  
 - 🧠 **TensorFlow**, **Scikit-learn**, **NumPy**, **Pandas**, **Looker Studio**
 
 ---
